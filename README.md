@@ -1,2 +1,2 @@
 # socketio-live-balls
-SOCKETIO LIVA BALLS
+SOCKETIO LIVE BALLS
